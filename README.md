@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: i am a software engenear
 i am a student
 
 
