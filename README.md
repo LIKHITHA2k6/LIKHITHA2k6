@@ -35,3 +35,21 @@ I Got CERTIFICATE of participation in NXT Wave and CISCO Networking Academy
 [![](https://visitcount.itsvg.in/api?id=LIKHITHA2k6&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#include <stdio.h>
+#include <conio.h> // Only if you're using Turbo C or similar
+
+int main() {
+    clrscr(); // Clears the screen (only works if conio.h is supported)
+
+    printf("Hello!\n\n");
+    printf("My name is Likhitha H K.\n");
+    printf("I am studying at Channabasaweshwara Institute of Technology, Gubbi.\n");
+    printf("I am in 1st year, Computer Science Engineering.\n");
+    printf("I am fascinated by coding and improving my English skills.\n");
+    printf("My dream is to become a successful Software Developer.\n\n");
+
+    printf("Thank you!\n");
+
+    getch(); // Wait for a key press (only works if conio.h is supported)
+    return 0;
+}
