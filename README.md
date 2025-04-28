@@ -1,14 +1,9 @@
-# 💫 About Me: i am a software engenear
-i am a student
-
+# 💫 About Me: i am a software engineer
+i am a currently a 1 st year student
 
 ## 🌐 Socials:likhitha hk @ kshatriya
-i am a student
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__________likhi_________) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Likhitha Hk Likhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhithahklikhi@gmail.com) 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
@@ -55,4 +50,5 @@ int main() {
 }
 Student at VISHWESHWARAYYA TECHNOLOGICAL UNIVERSITY..
 CHANNABASAVEAHWARA INSTITUTE OF TECHNOLOGY GUBBI..
-
+fascinate in coading and with my fluent English
+i am learner of new inovative things
