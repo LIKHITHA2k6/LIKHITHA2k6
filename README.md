@@ -53,3 +53,6 @@ int main() {
     getch(); // Wait for a key press (only works if conio.h is supported)
     return 0;
 }
+Student at VISHWESHWARAYYA TECHNOLOGICAL UNIVERSITY..
+CHANNABASAVEAHWARA INSTITUTE OF TECHNOLOGY GUBBI..
+
