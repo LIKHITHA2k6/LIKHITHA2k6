@@ -51,4 +51,4 @@ int main() {
 Student at VISHWESHWARAYYA TECHNOLOGICAL UNIVERSITY..
 CHANNABASAVEAHWARA INSTITUTE OF TECHNOLOGY GUBBI..
 fascinate in coading and with my fluent English
-i am learner of new inovative things
+i am learner of new inovative things from a teacher 
