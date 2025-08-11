@@ -1,5 +1,6 @@
-# 💫 About Me: i am a software engineer
-i am a currently a 1 st year student
+# 💫 About Me:     LIKHITHA H K
+"I am in my second year of a Bachelor's program in Computer Science and Engineering at Channabasaveshwara Institute of Technology
+"In first year,I earned certifications from Next Wave and Cisco Networking Academy."
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__________likhi_________) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Likhitha Hk Likhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhithahklikhi@gmail.com) 
 # 💻 Tech Stack:
@@ -46,5 +47,3 @@ int main() {
     getch(); // Wait for a key press (only works if conio.h is supported)
     return 0;
 }
-Student at VISHWESHWARAYYA TECHNOLOGICAL UNIVERSITY..
-CHANNABASAVEAHWARA INSTITUTE OF TECHNOLOGY GUBBI..
