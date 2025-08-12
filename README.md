@@ -4,6 +4,7 @@
 
 
 "In first year,I earned certifications from Next Wave and Cisco Networking Academy."
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__________likhi_________) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Likhitha Hk Likhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhithahklikhi@gmail.com) 
 # 💻 Tech Stack:
@@ -14,6 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKHITHA2k6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=LIKHITHA2k6&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -40,7 +42,7 @@ int main() {
 
     printf("Hello!\n\n");
     printf("My name is Likhitha H K.\n");
-    printf("I am studying at Channabasaweshwara Institute of Technology, Gubbi.\n");
+    printf("I am studying at Channabasaveshwara  Institute of Technology, Gubbi.\n");
     printf("I am in 1st year, Computer Science Engineering.\n");
     printf("I am fascinated by coding and improving my English skills.\n");
     printf("My dream is to become a successful Software Developer.\n\n");
