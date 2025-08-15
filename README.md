@@ -28,7 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=LIKHITHA2k6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LIKHITHA2k6&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LIKHITHA2k6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-I Got CERTIFICATE of participation in NXT Wave and CISCO Networking Academy
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LIKHITHA2k6&icon=4&color=1)](https://visitcount.itsvg.in)
