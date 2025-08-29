@@ -3,7 +3,13 @@
 "I am in my second year of a Bachelor's program in Computer Science and Engineering at Channabasaveshwara Institute of Technology
 
 
-"In first year,I earned certifications from Next Wave and Cisco Networking Academy."
+In my first year, I earned certifications from:
+
+SkillUp by Simplilearn, powered by Google Cloud – Google Cloud Computing Foundations
+
+NextWave – Career Essentials in Generative AI
+
+Cisco Networking Academy – Python Essentials 1
 
 
 ## 🌐 Socials:
