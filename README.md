@@ -10,6 +10,19 @@ SkillUp by Simplilearn, powered by Google Cloud – Google Cloud Computing Found
 NextWave – Career Essentials in Generative AI
 
 Cisco Networking Academy – Python Essentials 1
+## 👩‍💻 About Me
+
+🔭 I'm currently working on improving my Software Development and problem-solving skills.
+
+👯 I'm looking to collaborate on Open Source, Python, and Web Development projects.
+
+🤝 I'm looking for help with SDE interview preparation and real-world development projects.
+
+🌟 I've learned **Python, Data Structures & Algorithms (DSA), Operating Systems (OS), Database Management Systems (DBMS), and Object-Oriented Programming (OOPs).**
+
+💬 Ask me about Python, DSA, OOPs, DBMS, OS, Git, and GitHub.
+
+⚡ Fun fact: I enjoy solving coding problems and continuously learning new technologies to become a Software Development Engineer (SDE).
 
 
 ## 🌐 Socials:
